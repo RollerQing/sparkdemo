@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark,sparksql_unsafeMyAverage,sparkcore_wordcount,sparkstreaming_customerReceiver,sparkcore_accumulator,sparkstreaming_queueRdd,sparkgraphx_helloworld,sparksql_safeMyAverage,sparkstreaming_helloworld,sparkstreaming_windowWordCount,sparkstreaming_kafka,sparksql-hive,sparkstreaming_statefulWordCount,sparksql_helloworld,sparkcore_partitioner" />
+  </component>
+</project>

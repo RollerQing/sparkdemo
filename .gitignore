@@ -1,0 +1,3 @@
+# Project exclude paths
+/sparkcore_wordcount/target/
+/sparkgraphx_helloworld/target/
